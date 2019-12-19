@@ -1,6 +1,6 @@
 # 職務経歴書
 
-2019/11/20
+2019/12/19
 
 ## profile
 
@@ -8,7 +8,7 @@
   - 1995/11生まれ(24歳)
   - 長崎県出身。現住所も長崎です
 - mail : yamamichi1995@outlook.jp
-- Twitter : [こたつ@農家?](https://twitter.com/CV67145418)
+- Twitter : [kotatu](https://twitter.com/CV67145418)
 - GtiHub : [kotatu810](https://github.com/aclearworld)
 - Qiita : [katatu801](https://qiita.com/katatu801)
 - blog : [こたつの寂れた工房](https://scrapbox.io/KotatuDev/)
@@ -19,8 +19,8 @@
   - 1.5年程業務で経験。主にWPFでカスタムコントロールを作ったり、画面の作成を行いました
 - PHP
   - 学生時代に少しだけ書いた後しばらくお別れしていましたが、2019/5あたりから、Laravelといっしょに勉強中です
-- JavaScript
-  - 学生時代にjQueryでweb開発の卒業課題を行ったあとは、[Qiitaの記事](https://qiita.com/naruto/items/fdb61bc743395f8d8faf)の影響を受けて、Reactをずっと勉強しています
+- JavaScript/TypeScript
+  - 学生時代にjQueryでweb開発の卒業課題を行ったあとは、[Qiitaの記事](https://qiita.com/naruto/items/fdb61bc743395f8d8faf)の影響を受けて、Reactをずっと勉強しています。TypeScriptは最近始めました
 - C
   - 学生時代に1月程学習した後、業務で3ヶ月間使用しました
 
@@ -51,13 +51,17 @@
 
 - ブログ、Qiita、Twitter、GitHubへのアウトプット
 
- - oss活動
-  - JavaScriptのCookie操作を簡略化したライブラリ、[pocket-cookie](https://qiita.com/katatu801/items/cccb54ca38f0c3a662ca)を作成しました
+- oss活動
+  - JavaScriptのCookie操作を簡略化したライブラリ、[pocket-cookie](https://github.com/aclearworld/pocket-cookie)
+  - Reactコンポーネントライブラリ開発用のボイラープレート[react-component-library-boilerplate](https://github.com/aclearworld/react-component-library-boilerplate)
+
+- 趣味アプリ開発
+  - 名詞を絵文字で隠してTwitterに投稿できるWebアプリ[emoji-tw](https://emoji-tw.web.app/)を公開してます
+  - Node.jsで[ボイスロイドと喋るアプリ](https://github.com/aclearworld/voitalk)を作ったりもしました
 
 - 自作PC(windows/ubuntu)
   - ubuntuのデスクトップを改造したり、LVMを拡張したりして遊んでました
   - ただ、最近はubuntuの動作が不安定で、もっぱらwindowsで開発しています
-- Node.jsで[こんなもの](https://github.com/aclearworld/voitalk)を作ったりもしました。
 
 ### 実務/趣味問わず今後やりたいこと
 
